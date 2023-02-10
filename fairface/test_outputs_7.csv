@@ -1,0 +1,8 @@
+face_name_align,race,race4,gender,age,race_scores_fair,race_scores_fair_4,gender_scores_fair,age_scores_fair
+detected_faces/000239_black_face0.jpg,Black,Black,Female,20-29,[0.07 0.75 0.09 0.02 0.06 0.01 0.  ],[0.01 0.87 0.11 0.  ],[0. 1.],[0.   0.   0.02 0.79 0.19 0.   0.   0.   0.  ]
+detected_faces/000239_middle eastern_face0.jpg,White,White,Female,20-29,[0.57 0.   0.31 0.   0.01 0.01 0.11],[0.84 0.   0.1  0.06],[0. 1.],[0.   0.   0.01 0.53 0.45 0.01 0.   0.   0.  ]
+detected_faces/000239_latino_face0.jpg,White,White,Female,30-39,[0.65 0.   0.25 0.01 0.03 0.   0.05],[0.7  0.   0.27 0.02],[0. 1.],[0.   0.   0.   0.22 0.71 0.07 0.   0.   0.  ]
+detected_faces/000239_southeast asian_face0.jpg,East Asian,Asian,Female,20-29,[0.   0.   0.   0.66 0.34 0.   0.  ],[0. 0. 1. 0.],[0. 1.],[0.   0.   0.02 0.76 0.21 0.   0.   0.   0.  ]
+detected_faces/000239_indian_face0.jpg,Indian,Indian,Female,20-29,[0.   0.   0.03 0.   0.   0.96 0.  ],[0.   0.   0.01 0.99],[0. 1.],[0.   0.   0.01 0.56 0.38 0.04 0.   0.   0.  ]
+detected_faces/000239_east asian_face0.jpg,East Asian,Asian,Female,20-29,[0.   0.   0.   0.86 0.14 0.   0.  ],[0. 0. 1. 0.],[0. 1.],[0.   0.   0.02 0.67 0.3  0.02 0.   0.   0.  ]
+detected_faces/000239_white_face0.jpg,White,White,Female,30-39,[1. 0. 0. 0. 0. 0. 0.],[1. 0. 0. 0.],[0. 1.],[0.   0.   0.   0.22 0.67 0.1  0.01 0.   0.  ]

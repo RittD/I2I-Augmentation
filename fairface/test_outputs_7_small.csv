@@ -1,0 +1,8 @@
+face_name_align,race,race4,gender,age,race_scores_fair,race_scores_fair_4,gender_scores_fair,age_scores_fair
+detected_faces/000239_1_indian_face0.jpg,Indian,Indian,Female,20-29,[0.016 0.002 0.241 0.002 0.015 0.423 0.301],[0.002 0.006 0.012 0.98 ],[0.015 0.985],[0.    0.001 0.081 0.452 0.358 0.082 0.025 0.001 0.   ]
+detected_faces/000239_6_white_face0.jpg,White,White,Female,30-39,[0.996 0.    0.    0.    0.    0.    0.004],[0.998 0.    0.002 0.   ],[0. 1.],[0.    0.    0.003 0.179 0.423 0.265 0.127 0.005 0.   ]
+detected_faces/000239_0_black_face0.jpg,Black,Black,Female,20-29,[0.224 0.624 0.106 0.011 0.02  0.005 0.009],[0.035 0.886 0.078 0.002],[0. 1.],[0.    0.001 0.027 0.595 0.348 0.025 0.004 0.    0.   ]
+detected_faces/000239_5_latino_face0.jpg,White,White,Female,30-39,[0.582 0.001 0.106 0.009 0.016 0.006 0.28 ],[0.838 0.001 0.151 0.009],[0. 1.],[0.    0.    0.004 0.292 0.556 0.119 0.028 0.001 0.   ]
+detected_faces/000239_2_middle eastern_face0.jpg,Middle Eastern,Asian,Female,30-39,[0.271 0.    0.152 0.013 0.031 0.007 0.526],[0.252 0.002 0.698 0.048],[0. 1.],[0.    0.    0.01  0.371 0.551 0.063 0.005 0.    0.   ]
+detected_faces/000239_4_east asian_face0.jpg,East Asian,Asian,Female,30-39,[0.    0.    0.001 0.814 0.184 0.    0.   ],[0. 0. 1. 0.],[0.003 0.997],[0.    0.001 0.016 0.396 0.464 0.11  0.012 0.001 0.   ]
+detected_faces/000239_3_southeast asian_face0.jpg,Southeast Asian,Asian,Female,20-29,[0.    0.    0.003 0.478 0.517 0.001 0.   ],[0.    0.    0.999 0.   ],[0.001 0.999],[0.    0.001 0.051 0.687 0.248 0.012 0.    0.    0.   ]
