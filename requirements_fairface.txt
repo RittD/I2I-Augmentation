@@ -1,5 +1,5 @@
-cmake 
-dlib
 torchvision
 pandas
-deepface
+cmake 
+dlib
+# deepface

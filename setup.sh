@@ -17,7 +17,7 @@ rm -rf ~/miniconda3/miniconda.sh
 ~/miniconda3/bin/conda init bash
 
 # install xformers to run model
-~/miniconda3/bin/conda install xformers -c xformers/label/dev
+~/miniconda3/bin/conda install --yes xformers -c xformers/label/dev
 
 # install packages for fairface
 pip install -r requirements_fairface.txt
@@ -27,6 +27,7 @@ pip install dlib
 # copy models into fairface folder (and rename them) 
 # cp fairface_models/res34_fair_align_multi_4_20190809.pt fairface/fair_face_models/fairface_alldata_4race_20191111.pt
 # cp fairface_models/res34_fair_align_multi_7_20190809.pt fairface/fair_face_models/fairface_alldata_7race_20191111.pt
+
 
 echo " "
 echo " "

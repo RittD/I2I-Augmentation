@@ -1,0 +1,13 @@
+/CelebA
+/datasets
+/example_images
+
+/fairface/detected_faces
+/fairface/detected_faces_CelebA
+/fairface/fair_face_models
+
+/fairface/raw_input
+/fairface/raw_input_auto_gender
+/fairface/raw_input_new
+
+/outputs
