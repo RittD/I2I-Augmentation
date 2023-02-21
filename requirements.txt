@@ -4,3 +4,4 @@ ftfy
 opencv-python
 ipywidgets
 matplotlib
+accelerate
