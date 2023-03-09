@@ -28,6 +28,8 @@ pip install dlib
 # cp fairface_models/res34_fair_align_multi_4_20190809.pt fairface/fair_face_models/fairface_alldata_4race_20191111.pt
 # cp fairface_models/res34_fair_align_multi_7_20190809.pt fairface/fair_face_models/fairface_alldata_7race_20191111.pt
 
+# install screen as window manager
+sudo apt-get install screen --yes
 
 echo " "
 echo " "

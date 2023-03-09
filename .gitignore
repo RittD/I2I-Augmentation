@@ -2,6 +2,7 @@
 /datasets
 /example_images
 
+/fairface/dataset
 /fairface/detected_faces
 /fairface/detected_faces_CelebA
 /fairface/fair_face_models
