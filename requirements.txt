@@ -6,3 +6,5 @@ ipywidgets
 matplotlib
 accelerate
 pandas
+nbconvert
+rtpt
