@@ -16,4 +16,7 @@ fairface/detected_faces_CelebA_10k_aug_samples_correct_gender
 /fairface/tmp_detections
 
 /outputs
-fairface/detected_faces/000239_4_southeast asian_face0.jpg
+/DMimageDetection/TestSet
+/DMimageDetection/weights
+
+.neptune

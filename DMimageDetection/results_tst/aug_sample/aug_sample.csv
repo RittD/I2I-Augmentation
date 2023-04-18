@@ -1,0 +1,694 @@
+src,label,Grag2021_latent
+aug_sample/000056_4_southeast asian.jpg,True,2.4433889389038086
+aug_sample/000078_0_black.jpg,True,17.232789993286133
+aug_sample/000095_4_southeast asian.jpg,True,4.286591529846191
+aug_sample/000018_5_east asian.jpg,True,11.460407257080078
+aug_sample/000085_4_southeast asian.jpg,True,8.343685150146484
+aug_sample/000045_6_white.jpg,True,9.372468948364258
+aug_sample/000002_0_black.jpg,True,5.70840311050415
+aug_sample/000099_1_indian.jpg,True,7.130199432373047
+aug_sample/000057_1_indian.jpg,True,3.048128128051758
+aug_sample/000067_0_black.jpg,True,4.210312843322754
+aug_sample/000083_6_white.jpg,True,8.735279083251953
+aug_sample/000075_0_black.jpg,True,18.11689567565918
+aug_sample/000007_1_indian.jpg,True,7.669235706329346
+aug_sample/000073_3_middle eastern.jpg,True,6.7990217208862305
+aug_sample/000034_5_east asian.jpg,True,4.808139801025391
+aug_sample/000085_5_east asian.jpg,True,7.88779878616333
+aug_sample/000048_6_white.jpg,True,4.587507724761963
+aug_sample/000023_3_middle eastern.jpg,True,9.490513801574707
+aug_sample/000004_2_latino.jpg,True,2.0996603965759277
+aug_sample/000009_5_east asian.jpg,True,4.020256042480469
+aug_sample/000030_2_latino.jpg,True,2.206374406814575
+aug_sample/000054_4_southeast asian.jpg,True,3.3916943073272705
+aug_sample/000081_1_indian.jpg,True,7.382534027099609
+aug_sample/000065_0_black.jpg,True,2.3161206245422363
+aug_sample/000002_5_east asian.jpg,True,4.453544616699219
+aug_sample/000036_6_white.jpg,True,7.147313117980957
+aug_sample/000032_4_southeast asian.jpg,True,5.273972034454346
+aug_sample/000010_0_black.jpg,True,5.695373058319092
+aug_sample/000051_4_southeast asian.jpg,True,8.0997953414917
+aug_sample/000019_0_black.jpg,True,9.567534446716309
+aug_sample/000072_2_latino.jpg,True,3.5550830364227295
+aug_sample/000008_3_middle eastern.jpg,True,5.3408989906311035
+aug_sample/000027_4_southeast asian.jpg,True,2.709494113922119
+aug_sample/000026_0_black.jpg,True,4.264845371246338
+aug_sample/000063_5_east asian.jpg,True,4.403278827667236
+aug_sample/000072_1_indian.jpg,True,3.9727814197540283
+aug_sample/000093_4_southeast asian.jpg,True,14.672516822814941
+aug_sample/000005_4_southeast asian.jpg,True,7.130434513092041
+aug_sample/000025_0_black.jpg,True,3.461660623550415
+aug_sample/000030_6_white.jpg,True,4.218372821807861
+aug_sample/000064_2_latino.jpg,True,5.37447452545166
+aug_sample/000039_6_white.jpg,True,9.506348609924316
+aug_sample/000052_4_southeast asian.jpg,True,4.146829605102539
+aug_sample/000085_0_black.jpg,True,9.312260627746582
+aug_sample/000082_5_east asian.jpg,True,7.160163879394531
+aug_sample/000012_2_latino.jpg,True,4.305965423583984
+aug_sample/000071_5_east asian.jpg,True,6.06298828125
+aug_sample/000015_2_latino.jpg,True,6.432204723358154
+aug_sample/000006_6_white.jpg,True,10.65083122253418
+aug_sample/000003_2_latino.jpg,True,2.3369386196136475
+aug_sample/000005_3_middle eastern.jpg,True,7.578080177307129
+aug_sample/000076_0_black.jpg,True,5.348397254943848
+aug_sample/000060_4_southeast asian.jpg,True,7.661066055297852
+aug_sample/000038_3_middle eastern.jpg,True,8.214378356933594
+aug_sample/000021_0_black.jpg,True,3.5690009593963623
+aug_sample/000069_6_white.jpg,True,4.981790542602539
+aug_sample/000017_6_white.jpg,True,3.3395814895629883
+aug_sample/000016_4_southeast asian.jpg,True,3.995415449142456
+aug_sample/000060_1_indian.jpg,True,7.4766435623168945
+aug_sample/000051_0_black.jpg,True,7.603432655334473
+aug_sample/000073_1_indian.jpg,True,10.052692413330078
+aug_sample/000021_2_latino.jpg,True,5.346261978149414
+aug_sample/000017_1_indian.jpg,True,3.860621929168701
+aug_sample/000061_6_white.jpg,True,1.3357198238372803
+aug_sample/000077_0_black.jpg,True,8.832280158996582
+aug_sample/000057_4_southeast asian.jpg,True,2.9173758029937744
+aug_sample/000023_1_indian.jpg,True,10.890995979309082
+aug_sample/000042_0_black.jpg,True,7.814964294433594
+aug_sample/000064_1_indian.jpg,True,7.036191463470459
+aug_sample/000024_2_latino.jpg,True,2.8496997356414795
+aug_sample/000042_1_indian.jpg,True,7.655163764953613
+aug_sample/000071_4_southeast asian.jpg,True,5.685274124145508
+aug_sample/000058_5_east asian.jpg,True,6.141478061676025
+aug_sample/000091_5_east asian.jpg,True,8.020710945129395
+aug_sample/000065_4_southeast asian.jpg,True,2.626070022583008
+aug_sample/000072_4_southeast asian.jpg,True,4.354525089263916
+aug_sample/000069_5_east asian.jpg,True,3.5936615467071533
+aug_sample/000085_6_white.jpg,True,6.419633388519287
+aug_sample/000045_0_black.jpg,True,10.837593078613281
+aug_sample/000024_0_black.jpg,True,2.965043067932129
+aug_sample/000003_5_east asian.jpg,True,1.9064254760742188
+aug_sample/000082_1_indian.jpg,True,9.647583961486816
+aug_sample/000041_4_southeast asian.jpg,True,3.0570173263549805
+aug_sample/000086_3_middle eastern.jpg,True,1.8061113357543945
+aug_sample/000040_1_indian.jpg,True,6.9936347007751465
+aug_sample/000073_6_white.jpg,True,3.788012981414795
+aug_sample/000051_3_middle eastern.jpg,True,11.477625846862793
+aug_sample/000020_2_latino.jpg,True,9.052846908569336
+aug_sample/000027_0_black.jpg,True,3.3911774158477783
+aug_sample/000008_2_latino.jpg,True,3.6310417652130127
+aug_sample/000036_5_east asian.jpg,True,5.5027570724487305
+aug_sample/000055_4_southeast asian.jpg,True,2.384382724761963
+aug_sample/000073_0_black.jpg,True,6.1352009773254395
+aug_sample/000038_6_white.jpg,True,8.295353889465332
+aug_sample/000093_6_white.jpg,True,12.274667739868164
+aug_sample/000096_3_middle eastern.jpg,True,2.9878714084625244
+aug_sample/000098_0_black.jpg,True,17.661293029785156
+aug_sample/000092_5_east asian.jpg,True,9.652791976928711
+aug_sample/000089_6_white.jpg,True,7.469355583190918
+aug_sample/000029_2_latino.jpg,True,8.303384780883789
+aug_sample/000078_2_latino.jpg,True,14.349907875061035
+aug_sample/000022_2_latino.jpg,True,7.616549015045166
+aug_sample/000017_2_latino.jpg,True,4.12118673324585
+aug_sample/000092_1_indian.jpg,True,13.488204002380371
+aug_sample/000066_0_black.jpg,True,3.1104094982147217
+aug_sample/000095_2_latino.jpg,True,3.8995697498321533
+aug_sample/000036_1_indian.jpg,True,6.360343933105469
+aug_sample/000084_3_middle eastern.jpg,True,3.199108600616455
+aug_sample/000012_1_indian.jpg,True,3.4399189949035645
+aug_sample/000044_6_white.jpg,True,7.2122392654418945
+aug_sample/000012_5_east asian.jpg,True,4.001261234283447
+aug_sample/000078_5_east asian.jpg,True,12.861274719238281
+aug_sample/000098_3_middle eastern.jpg,True,17.84304428100586
+aug_sample/000065_6_white.jpg,True,2.293159246444702
+aug_sample/000056_2_latino.jpg,True,2.44584059715271
+aug_sample/000070_4_southeast asian.jpg,True,3.7956912517547607
+aug_sample/000010_1_indian.jpg,True,8.252107620239258
+aug_sample/000065_2_latino.jpg,True,2.068596124649048
+aug_sample/000037_4_southeast asian.jpg,True,7.502414226531982
+aug_sample/000002_3_middle eastern.jpg,True,5.400609970092773
+aug_sample/000006_0_black.jpg,True,10.652029037475586
+aug_sample/000049_0_black.jpg,True,2.9889373779296875
+aug_sample/000001_1_indian.jpg,True,17.645000457763672
+aug_sample/000080_5_east asian.jpg,True,9.88338851928711
+aug_sample/000080_0_black.jpg,True,10.127223014831543
+aug_sample/000032_0_black.jpg,True,4.52102518081665
+aug_sample/000007_2_latino.jpg,True,7.745619297027588
+aug_sample/000005_1_indian.jpg,True,8.760282516479492
+aug_sample/000046_5_east asian.jpg,True,4.623955249786377
+aug_sample/000056_0_black.jpg,True,2.569727897644043
+aug_sample/000059_2_latino.jpg,True,3.567594289779663
+aug_sample/000096_4_southeast asian.jpg,True,3.2140464782714844
+aug_sample/000023_6_white.jpg,True,8.50119686126709
+aug_sample/000013_6_white.jpg,True,6.505683898925781
+aug_sample/000083_2_latino.jpg,True,7.825567722320557
+aug_sample/000068_5_east asian.jpg,True,4.444900035858154
+aug_sample/000088_1_indian.jpg,True,14.579073905944824
+aug_sample/000023_2_latino.jpg,True,8.3673677444458
+aug_sample/000006_5_east asian.jpg,True,5.778078079223633
+aug_sample/000048_2_latino.jpg,True,5.062943935394287
+aug_sample/000094_6_white.jpg,True,8.470172882080078
+aug_sample/000074_3_middle eastern.jpg,True,9.027780532836914
+aug_sample/000060_3_middle eastern.jpg,True,7.442069053649902
+aug_sample/000069_2_latino.jpg,True,5.404513835906982
+aug_sample/000013_1_indian.jpg,True,7.022642612457275
+aug_sample/000027_6_white.jpg,True,3.3569693565368652
+aug_sample/000070_6_white.jpg,True,3.8497331142425537
+aug_sample/000097_2_latino.jpg,True,4.012685298919678
+aug_sample/000039_2_latino.jpg,True,12.593461036682129
+aug_sample/000090_3_middle eastern.jpg,True,4.241294860839844
+aug_sample/000009_0_black.jpg,True,5.350862503051758
+aug_sample/000035_2_latino.jpg,True,2.405249834060669
+aug_sample/000086_1_indian.jpg,True,1.9536466598510742
+aug_sample/000037_3_middle eastern.jpg,True,8.490452766418457
+aug_sample/000095_1_indian.jpg,True,3.871283769607544
+aug_sample/000016_6_white.jpg,True,5.777725696563721
+aug_sample/000062_6_white.jpg,True,2.6564974784851074
+aug_sample/000034_0_black.jpg,True,5.347173690795898
+aug_sample/000003_3_middle eastern.jpg,True,2.601219415664673
+aug_sample/000074_5_east asian.jpg,True,8.275223731994629
+aug_sample/000062_0_black.jpg,True,3.3788602352142334
+aug_sample/000028_6_white.jpg,True,7.54583740234375
+aug_sample/000033_1_indian.jpg,True,4.568111896514893
+aug_sample/000021_5_east asian.jpg,True,4.772950649261475
+aug_sample/000041_6_white.jpg,True,5.307908058166504
+aug_sample/000066_3_middle eastern.jpg,True,2.525236129760742
+aug_sample/000034_6_white.jpg,True,4.497917175292969
+aug_sample/000014_1_indian.jpg,True,6.891654014587402
+aug_sample/000027_5_east asian.jpg,True,3.106001853942871
+aug_sample/000079_5_east asian.jpg,True,4.03217887878418
+aug_sample/000050_4_southeast asian.jpg,True,2.731340169906616
+aug_sample/000090_0_black.jpg,True,3.099923849105835
+aug_sample/000050_0_black.jpg,True,1.266878366470337
+aug_sample/000003_4_southeast asian.jpg,True,2.6742703914642334
+aug_sample/000098_1_indian.jpg,True,16.301340103149414
+aug_sample/000075_3_middle eastern.jpg,True,15.828052520751953
+aug_sample/000094_5_east asian.jpg,True,8.881861686706543
+aug_sample/000003_0_black.jpg,True,1.9749069213867188
+aug_sample/000085_3_middle eastern.jpg,True,10.963717460632324
+aug_sample/000086_6_white.jpg,True,0.8128748536109924
+aug_sample/000048_3_middle eastern.jpg,True,5.490975379943848
+aug_sample/000026_3_middle eastern.jpg,True,5.3351616859436035
+aug_sample/000016_0_black.jpg,True,3.964296340942383
+aug_sample/000047_0_black.jpg,True,3.871232748031616
+aug_sample/000020_6_white.jpg,True,7.998203754425049
+aug_sample/000005_2_latino.jpg,True,5.293569564819336
+aug_sample/000031_4_southeast asian.jpg,True,7.487588882446289
+aug_sample/000024_4_southeast asian.jpg,True,1.0978069305419922
+aug_sample/000047_6_white.jpg,True,6.449591159820557
+aug_sample/000008_6_white.jpg,True,3.1325345039367676
+aug_sample/000027_1_indian.jpg,True,3.8053221702575684
+aug_sample/000054_6_white.jpg,True,2.969640016555786
+aug_sample/000011_1_indian.jpg,True,2.7480411529541016
+aug_sample/000096_5_east asian.jpg,True,3.092172145843506
+aug_sample/000064_0_black.jpg,True,3.2271668910980225
+aug_sample/000074_2_latino.jpg,True,9.52910041809082
+aug_sample/000078_6_white.jpg,True,13.188383102416992
+aug_sample/000036_0_black.jpg,True,5.1123247146606445
+aug_sample/000063_0_black.jpg,True,4.924321174621582
+aug_sample/000004_3_middle eastern.jpg,True,2.427250623703003
+aug_sample/000038_4_southeast asian.jpg,True,5.19204044342041
+aug_sample/000025_5_east asian.jpg,True,3.3390116691589355
+aug_sample/000001_3_middle eastern.jpg,True,15.449052810668945
+aug_sample/000049_4_southeast asian.jpg,True,3.248443603515625
+aug_sample/000059_3_middle eastern.jpg,True,2.593623399734497
+aug_sample/000093_0_black.jpg,True,11.375575065612793
+aug_sample/000024_3_middle eastern.jpg,True,1.9236266613006592
+aug_sample/000017_5_east asian.jpg,True,3.9283978939056396
+aug_sample/000067_6_white.jpg,True,6.617964744567871
+aug_sample/000099_5_east asian.jpg,True,8.001317977905273
+aug_sample/000070_5_east asian.jpg,True,3.1365315914154053
+aug_sample/000002_2_latino.jpg,True,6.271805763244629
+aug_sample/000079_0_black.jpg,True,4.429734230041504
+aug_sample/000027_2_latino.jpg,True,2.9836714267730713
+aug_sample/000080_3_middle eastern.jpg,True,12.40389347076416
+aug_sample/000046_0_black.jpg,True,4.358124732971191
+aug_sample/000055_3_middle eastern.jpg,True,3.4558889865875244
+aug_sample/000087_2_latino.jpg,True,3.1112518310546875
+aug_sample/000028_3_middle eastern.jpg,True,9.189619064331055
+aug_sample/000019_1_indian.jpg,True,8.761351585388184
+aug_sample/000026_1_indian.jpg,True,4.8549065589904785
+aug_sample/000072_6_white.jpg,True,3.2620208263397217
+aug_sample/000019_4_southeast asian.jpg,True,9.766239166259766
+aug_sample/000093_2_latino.jpg,True,14.418668746948242
+aug_sample/000017_0_black.jpg,True,0.8705108761787415
+aug_sample/000070_0_black.jpg,True,3.1970033645629883
+aug_sample/000082_2_latino.jpg,True,10.11094856262207
+aug_sample/000081_6_white.jpg,True,5.442472457885742
+aug_sample/000006_2_latino.jpg,True,8.606250762939453
+aug_sample/000035_1_indian.jpg,True,4.684098243713379
+aug_sample/000053_1_indian.jpg,True,2.8461480140686035
+aug_sample/000022_4_southeast asian.jpg,True,7.36073637008667
+aug_sample/000001_4_southeast asian.jpg,True,13.522266387939453
+aug_sample/000037_5_east asian.jpg,True,6.830320835113525
+aug_sample/000009_1_indian.jpg,True,4.968594074249268
+aug_sample/000098_5_east asian.jpg,True,13.638360023498535
+aug_sample/000033_5_east asian.jpg,True,3.4586381912231445
+aug_sample/000015_6_white.jpg,True,4.824693202972412
+aug_sample/000029_0_black.jpg,True,8.092011451721191
+aug_sample/000051_5_east asian.jpg,True,5.680431842803955
+aug_sample/000018_6_white.jpg,True,11.081440925598145
+aug_sample/000048_4_southeast asian.jpg,True,4.456204891204834
+aug_sample/000063_1_indian.jpg,True,5.230389595031738
+aug_sample/000053_6_white.jpg,True,3.035660743713379
+aug_sample/000042_6_white.jpg,True,7.962154865264893
+aug_sample/000020_0_black.jpg,True,7.416092395782471
+aug_sample/000040_4_southeast asian.jpg,True,5.066749572753906
+aug_sample/000071_1_indian.jpg,True,6.970981121063232
+aug_sample/000034_1_indian.jpg,True,5.552107334136963
+aug_sample/000005_0_black.jpg,True,6.349339008331299
+aug_sample/000059_1_indian.jpg,True,5.04749059677124
+aug_sample/000081_5_east asian.jpg,True,3.811826705932617
+aug_sample/000097_4_southeast asian.jpg,True,2.6840925216674805
+aug_sample/000066_6_white.jpg,True,2.901719093322754
+aug_sample/000012_0_black.jpg,True,4.4996747970581055
+aug_sample/000067_2_latino.jpg,True,6.313626766204834
+aug_sample/000004_6_white.jpg,True,1.9589241743087769
+aug_sample/000086_2_latino.jpg,True,0.9966941475868225
+aug_sample/000017_4_southeast asian.jpg,True,3.3812859058380127
+aug_sample/000039_3_middle eastern.jpg,True,13.80299186706543
+aug_sample/000052_0_black.jpg,True,4.796515464782715
+aug_sample/000030_4_southeast asian.jpg,True,2.162684202194214
+aug_sample/000045_4_southeast asian.jpg,True,7.7607035636901855
+aug_sample/000050_3_middle eastern.jpg,True,2.1434683799743652
+aug_sample/000045_5_east asian.jpg,True,7.976085662841797
+aug_sample/000059_5_east asian.jpg,True,5.428835391998291
+aug_sample/000023_4_southeast asian.jpg,True,7.241249084472656
+aug_sample/000057_6_white.jpg,True,4.150276184082031
+aug_sample/000025_2_latino.jpg,True,9.579391479492188
+aug_sample/000054_5_east asian.jpg,True,2.896089553833008
+aug_sample/000058_4_southeast asian.jpg,True,6.9512763023376465
+aug_sample/000062_5_east asian.jpg,True,2.27420711517334
+aug_sample/000084_2_latino.jpg,True,3.844877243041992
+aug_sample/000051_6_white.jpg,True,9.628303527832031
+aug_sample/000009_4_southeast asian.jpg,True,3.9904866218566895
+aug_sample/000004_1_indian.jpg,True,4.349912166595459
+aug_sample/000091_6_white.jpg,True,9.417533874511719
+aug_sample/000057_0_black.jpg,True,2.619983196258545
+aug_sample/000011_6_white.jpg,True,2.2592599391937256
+aug_sample/000048_5_east asian.jpg,True,4.746236801147461
+aug_sample/000028_0_black.jpg,True,7.671745300292969
+aug_sample/000084_6_white.jpg,True,2.086168050765991
+aug_sample/000044_2_latino.jpg,True,7.076792240142822
+aug_sample/000006_3_middle eastern.jpg,True,9.390007019042969
+aug_sample/000051_2_latino.jpg,True,9.243217468261719
+aug_sample/000089_3_middle eastern.jpg,True,7.393974304199219
+aug_sample/000099_6_white.jpg,True,8.657689094543457
+aug_sample/000040_2_latino.jpg,True,5.616471290588379
+aug_sample/000049_1_indian.jpg,True,4.117091655731201
+aug_sample/000020_4_southeast asian.jpg,True,6.160290718078613
+aug_sample/000040_6_white.jpg,True,5.4939141273498535
+aug_sample/000014_5_east asian.jpg,True,3.2319486141204834
+aug_sample/000055_5_east asian.jpg,True,2.5030124187469482
+aug_sample/000074_0_black.jpg,True,10.779850959777832
+aug_sample/000064_3_middle eastern.jpg,True,5.254974842071533
+aug_sample/000076_1_indian.jpg,True,8.324928283691406
+aug_sample/000075_5_east asian.jpg,True,17.1779727935791
+aug_sample/000043_3_middle eastern.jpg,True,6.4233832359313965
+aug_sample/000058_6_white.jpg,True,8.113285064697266
+aug_sample/000087_6_white.jpg,True,2.9209330081939697
+aug_sample/000056_5_east asian.jpg,True,2.240647315979004
+aug_sample/000035_3_middle eastern.jpg,True,3.7064623832702637
+aug_sample/000090_6_white.jpg,True,3.985964775085449
+aug_sample/000026_4_southeast asian.jpg,True,6.510987758636475
+aug_sample/000053_5_east asian.jpg,True,3.1068782806396484
+aug_sample/000010_6_white.jpg,True,7.601125240325928
+aug_sample/000049_2_latino.jpg,True,3.310314893722534
+aug_sample/000064_5_east asian.jpg,True,5.169281482696533
+aug_sample/000062_4_southeast asian.jpg,True,2.1166675090789795
+aug_sample/000050_6_white.jpg,True,1.88222336769104
+aug_sample/000063_2_latino.jpg,True,4.915825843811035
+aug_sample/000061_5_east asian.jpg,True,1.9088239669799805
+aug_sample/000091_3_middle eastern.jpg,True,10.044282913208008
+aug_sample/000004_0_black.jpg,True,1.7007086277008057
+aug_sample/000098_6_white.jpg,True,15.384093284606934
+aug_sample/000011_4_southeast asian.jpg,True,2.775764226913452
+aug_sample/000064_4_southeast asian.jpg,True,5.845633506774902
+aug_sample/000045_3_middle eastern.jpg,True,10.77143669128418
+aug_sample/000087_3_middle eastern.jpg,True,2.9081499576568604
+aug_sample/000091_2_latino.jpg,True,11.085055351257324
+aug_sample/000022_1_indian.jpg,True,7.719233512878418
+aug_sample/000037_6_white.jpg,True,7.84067440032959
+aug_sample/000029_3_middle eastern.jpg,True,7.916243553161621
+aug_sample/000077_6_white.jpg,True,9.222455978393555
+aug_sample/000054_1_indian.jpg,True,7.693507671356201
+aug_sample/000014_6_white.jpg,True,6.440909385681152
+aug_sample/000065_3_middle eastern.jpg,True,2.6393399238586426
+aug_sample/000096_6_white.jpg,True,3.5322999954223633
+aug_sample/000032_2_latino.jpg,True,6.601827144622803
+aug_sample/000050_5_east asian.jpg,True,2.3825905323028564
+aug_sample/000035_4_southeast asian.jpg,True,1.463361144065857
+aug_sample/000046_2_latino.jpg,True,6.266087055206299
+aug_sample/000026_2_latino.jpg,True,5.608348846435547
+aug_sample/000010_2_latino.jpg,True,8.101993560791016
+aug_sample/000064_6_white.jpg,True,6.334909915924072
+aug_sample/000058_2_latino.jpg,True,4.847032070159912
+aug_sample/000061_2_latino.jpg,True,3.5825960636138916
+aug_sample/000048_0_black.jpg,True,4.756092071533203
+aug_sample/000084_5_east asian.jpg,True,2.551959276199341
+aug_sample/000097_0_black.jpg,True,3.0370919704437256
+aug_sample/000009_6_white.jpg,True,4.513559818267822
+aug_sample/000060_0_black.jpg,True,7.666027069091797
+aug_sample/000013_0_black.jpg,True,4.885423183441162
+aug_sample/000066_4_southeast asian.jpg,True,2.6194698810577393
+aug_sample/000042_5_east asian.jpg,True,7.076192855834961
+aug_sample/000074_1_indian.jpg,True,16.2135066986084
+aug_sample/000083_3_middle eastern.jpg,True,8.2659273147583
+aug_sample/000032_1_indian.jpg,True,5.804840564727783
+aug_sample/000097_3_middle eastern.jpg,True,3.210609197616577
+aug_sample/000049_6_white.jpg,True,3.4703428745269775
+aug_sample/000099_2_latino.jpg,True,9.038951873779297
+aug_sample/000035_6_white.jpg,True,2.2035467624664307
+aug_sample/000056_6_white.jpg,True,2.3406596183776855
+aug_sample/000076_4_southeast asian.jpg,True,4.446588039398193
+aug_sample/000080_1_indian.jpg,True,14.4390869140625
+aug_sample/000080_2_latino.jpg,True,10.247025489807129
+aug_sample/000068_3_middle eastern.jpg,True,9.598880767822266
+aug_sample/000002_4_southeast asian.jpg,True,5.255649089813232
+aug_sample/000050_2_latino.jpg,True,2.424429416656494
+aug_sample/000060_2_latino.jpg,True,8.098743438720703
+aug_sample/000047_4_southeast asian.jpg,True,4.936007022857666
+aug_sample/000094_4_southeast asian.jpg,True,8.923739433288574
+aug_sample/000046_6_white.jpg,True,4.48634147644043
+aug_sample/000010_4_southeast asian.jpg,True,7.46298885345459
+aug_sample/000036_4_southeast asian.jpg,True,5.564966201782227
+aug_sample/000097_6_white.jpg,True,2.4204084873199463
+aug_sample/000042_4_southeast asian.jpg,True,7.268868446350098
+aug_sample/000076_3_middle eastern.jpg,True,6.631425380706787
+aug_sample/000059_4_southeast asian.jpg,True,5.450080871582031
+aug_sample/000062_1_indian.jpg,True,5.161103248596191
+aug_sample/000077_2_latino.jpg,True,9.804863929748535
+aug_sample/000068_2_latino.jpg,True,7.55784273147583
+aug_sample/000047_1_indian.jpg,True,7.589407920837402
+aug_sample/000040_5_east asian.jpg,True,4.719554424285889
+aug_sample/000087_4_southeast asian.jpg,True,3.0118041038513184
+aug_sample/000028_5_east asian.jpg,True,9.864582061767578
+aug_sample/000072_3_middle eastern.jpg,True,3.7977113723754883
+aug_sample/000090_2_latino.jpg,True,3.497570514678955
+aug_sample/000018_3_middle eastern.jpg,True,13.054004669189453
+aug_sample/000097_5_east asian.jpg,True,3.31645131111145
+aug_sample/000041_3_middle eastern.jpg,True,4.287271976470947
+aug_sample/000022_0_black.jpg,True,6.873467922210693
+aug_sample/000028_4_southeast asian.jpg,True,8.62696647644043
+aug_sample/000078_1_indian.jpg,True,16.437850952148438
+aug_sample/000011_0_black.jpg,True,2.4999566078186035
+aug_sample/000004_5_east asian.jpg,True,1.1218137741088867
+aug_sample/000015_3_middle eastern.jpg,True,5.40024995803833
+aug_sample/000095_3_middle eastern.jpg,True,4.323380947113037
+aug_sample/000032_5_east asian.jpg,True,6.177779674530029
+aug_sample/000099_3_middle eastern.jpg,True,7.6458539962768555
+aug_sample/000008_4_southeast asian.jpg,True,3.87135910987854
+aug_sample/000015_4_southeast asian.jpg,True,3.5971133708953857
+aug_sample/000068_1_indian.jpg,True,9.67221450805664
+aug_sample/000021_1_indian.jpg,True,6.822127819061279
+aug_sample/000072_0_black.jpg,True,3.2435922622680664
+aug_sample/000029_4_southeast asian.jpg,True,7.53743839263916
+aug_sample/000091_0_black.jpg,True,8.992143630981445
+aug_sample/000083_5_east asian.jpg,True,6.772880554199219
+aug_sample/000010_5_east asian.jpg,True,6.783373832702637
+aug_sample/000077_5_east asian.jpg,True,7.49267578125
+aug_sample/000052_5_east asian.jpg,True,4.20522403717041
+aug_sample/000086_0_black.jpg,True,0.6071146726608276
+aug_sample/000034_3_middle eastern.jpg,True,5.538830757141113
+aug_sample/000092_6_white.jpg,True,11.305411338806152
+aug_sample/000043_0_black.jpg,True,5.583632946014404
+aug_sample/000081_3_middle eastern.jpg,True,6.231470108032227
+aug_sample/000094_2_latino.jpg,True,8.881558418273926
+aug_sample/000006_4_southeast asian.jpg,True,5.977057456970215
+aug_sample/000020_5_east asian.jpg,True,5.540599822998047
+aug_sample/000091_4_southeast asian.jpg,True,8.650535583496094
+aug_sample/000058_3_middle eastern.jpg,True,4.0960893630981445
+aug_sample/000066_5_east asian.jpg,True,2.7337567806243896
+aug_sample/000014_0_black.jpg,True,5.1811909675598145
+aug_sample/000033_0_black.jpg,True,4.174967288970947
+aug_sample/000076_2_latino.jpg,True,6.614725112915039
+aug_sample/000023_5_east asian.jpg,True,7.049044132232666
+aug_sample/000061_3_middle eastern.jpg,True,2.3072516918182373
+aug_sample/000019_5_east asian.jpg,True,8.941743850708008
+aug_sample/000043_6_white.jpg,True,6.6777119636535645
+aug_sample/000051_1_indian.jpg,True,13.180033683776855
+aug_sample/000057_2_latino.jpg,True,3.4056875705718994
+aug_sample/000054_0_black.jpg,True,2.594874143600464
+aug_sample/000033_2_latino.jpg,True,4.535077095031738
+aug_sample/000087_0_black.jpg,True,2.9660818576812744
+aug_sample/000011_5_east asian.jpg,True,2.6773955821990967
+aug_sample/000007_0_black.jpg,True,7.126590728759766
+aug_sample/000038_2_latino.jpg,True,9.063222885131836
+aug_sample/000079_2_latino.jpg,True,3.853869676589966
+aug_sample/000024_1_indian.jpg,True,4.882854461669922
+aug_sample/000013_2_latino.jpg,True,5.1651930809021
+aug_sample/000024_6_white.jpg,True,2.3244152069091797
+aug_sample/000014_2_latino.jpg,True,4.910947322845459
+aug_sample/000022_3_middle eastern.jpg,True,7.400951385498047
+aug_sample/000055_0_black.jpg,True,2.545895576477051
+aug_sample/000080_4_southeast asian.jpg,True,7.3713812828063965
+aug_sample/000029_1_indian.jpg,True,7.273387908935547
+aug_sample/000094_0_black.jpg,True,6.8024187088012695
+aug_sample/000071_3_middle eastern.jpg,True,4.96309757232666
+aug_sample/000058_0_black.jpg,True,5.455654621124268
+aug_sample/000075_6_white.jpg,True,12.156035423278809
+aug_sample/000005_6_white.jpg,True,5.642433166503906
+aug_sample/000018_2_latino.jpg,True,11.728300094604492
+aug_sample/000025_6_white.jpg,True,6.869865417480469
+aug_sample/000066_1_indian.jpg,True,2.502504825592041
+aug_sample/000055_1_indian.jpg,True,4.110927104949951
+aug_sample/000073_2_latino.jpg,True,5.941451072692871
+aug_sample/000041_5_east asian.jpg,True,2.3646936416625977
+aug_sample/000089_4_southeast asian.jpg,True,4.434290885925293
+aug_sample/000057_5_east asian.jpg,True,3.2626869678497314
+aug_sample/000073_5_east asian.jpg,True,3.9404428005218506
+aug_sample/000059_0_black.jpg,True,4.455376625061035
+aug_sample/000042_2_latino.jpg,True,8.13211727142334
+aug_sample/000062_2_latino.jpg,True,3.029808759689331
+aug_sample/000070_3_middle eastern.jpg,True,3.806472063064575
+aug_sample/000001_2_latino.jpg,True,12.388928413391113
+aug_sample/000082_6_white.jpg,True,8.087169647216797
+aug_sample/000020_1_indian.jpg,True,9.393101692199707
+aug_sample/000075_4_southeast asian.jpg,True,14.17334270477295
+aug_sample/000044_4_southeast asian.jpg,True,6.213985443115234
+aug_sample/000082_3_middle eastern.jpg,True,8.42066764831543
+aug_sample/000031_5_east asian.jpg,True,7.909387588500977
+aug_sample/000026_6_white.jpg,True,6.651033878326416
+aug_sample/000024_5_east asian.jpg,True,3.357948064804077
+aug_sample/000099_0_black.jpg,True,7.775842666625977
+aug_sample/000088_3_middle eastern.jpg,True,13.252345085144043
+aug_sample/000088_6_white.jpg,True,10.366941452026367
+aug_sample/000011_3_middle eastern.jpg,True,2.2905094623565674
+aug_sample/000022_6_white.jpg,True,7.3656392097473145
+aug_sample/000019_6_white.jpg,True,9.78417682647705
+aug_sample/000069_4_southeast asian.jpg,True,3.3178791999816895
+aug_sample/000017_3_middle eastern.jpg,True,3.548067331314087
+aug_sample/000070_2_latino.jpg,True,3.2217133045196533
+aug_sample/000073_4_southeast asian.jpg,True,4.7696452140808105
+aug_sample/000045_1_indian.jpg,True,9.762606620788574
+aug_sample/000060_5_east asian.jpg,True,5.987981796264648
+aug_sample/000061_0_black.jpg,True,1.9328815937042236
+aug_sample/000097_1_indian.jpg,True,5.326465606689453
+aug_sample/000084_1_indian.jpg,True,3.344642162322998
+aug_sample/000081_2_latino.jpg,True,5.283359527587891
+aug_sample/000090_1_indian.jpg,True,3.463151693344116
+aug_sample/000069_3_middle eastern.jpg,True,6.524343013763428
+aug_sample/000016_5_east asian.jpg,True,3.3417980670928955
+aug_sample/000043_4_southeast asian.jpg,True,5.3342485427856445
+aug_sample/000082_0_black.jpg,True,7.738129138946533
+aug_sample/000007_4_southeast asian.jpg,True,6.304818153381348
+aug_sample/000038_0_black.jpg,True,8.269381523132324
+aug_sample/000087_5_east asian.jpg,True,2.8793840408325195
+aug_sample/000046_3_middle eastern.jpg,True,5.800583839416504
+aug_sample/000057_3_middle eastern.jpg,True,3.5742897987365723
+aug_sample/000071_6_white.jpg,True,7.437932014465332
+aug_sample/000021_6_white.jpg,True,3.890038251876831
+aug_sample/000053_3_middle eastern.jpg,True,3.101802349090576
+aug_sample/000048_1_indian.jpg,True,5.963495254516602
+aug_sample/000092_4_southeast asian.jpg,True,9.415946006774902
+aug_sample/000003_1_indian.jpg,True,2.8383002281188965
+aug_sample/000052_2_latino.jpg,True,8.615017890930176
+aug_sample/000037_2_latino.jpg,True,7.612896919250488
+aug_sample/000016_3_middle eastern.jpg,True,6.171506404876709
+aug_sample/000052_1_indian.jpg,True,10.672877311706543
+aug_sample/000029_5_east asian.jpg,True,7.688863754272461
+aug_sample/000038_1_indian.jpg,True,7.831539154052734
+aug_sample/000007_6_white.jpg,True,9.418869018554688
+aug_sample/000074_4_southeast asian.jpg,True,9.180676460266113
+aug_sample/000035_5_east asian.jpg,True,2.5025522708892822
+aug_sample/000001_6_white.jpg,True,13.399218559265137
+aug_sample/000054_3_middle eastern.jpg,True,2.247554063796997
+aug_sample/000096_2_latino.jpg,True,3.525144100189209
+aug_sample/000015_0_black.jpg,True,3.172964572906494
+aug_sample/000025_3_middle eastern.jpg,True,12.295852661132812
+aug_sample/000041_2_latino.jpg,True,5.03011417388916
+aug_sample/000044_5_east asian.jpg,True,5.154689788818359
+aug_sample/000095_0_black.jpg,True,4.620875358581543
+aug_sample/000034_4_southeast asian.jpg,True,4.845975399017334
+aug_sample/000089_2_latino.jpg,True,6.673929214477539
+aug_sample/000033_4_southeast asian.jpg,True,3.77425217628479
+aug_sample/000007_3_middle eastern.jpg,True,6.9366655349731445
+aug_sample/000016_1_indian.jpg,True,8.032676696777344
+aug_sample/000021_3_middle eastern.jpg,True,5.1033711433410645
+aug_sample/000080_6_white.jpg,True,11.485923767089844
+aug_sample/000030_3_middle eastern.jpg,True,7.832551956176758
+aug_sample/000085_2_latino.jpg,True,9.199297904968262
+aug_sample/000089_1_indian.jpg,True,9.909367561340332
+aug_sample/000008_5_east asian.jpg,True,3.44889760017395
+aug_sample/000025_4_southeast asian.jpg,True,9.657356262207031
+aug_sample/000056_1_indian.jpg,True,3.3625924587249756
+aug_sample/000096_1_indian.jpg,True,4.522418975830078
+aug_sample/000031_3_middle eastern.jpg,True,12.602930068969727
+aug_sample/000086_4_southeast asian.jpg,True,1.9250733852386475
+aug_sample/000041_1_indian.jpg,True,4.451612949371338
+aug_sample/000054_2_latino.jpg,True,3.168658494949341
+aug_sample/000063_4_southeast asian.jpg,True,4.276142120361328
+aug_sample/000089_0_black.jpg,True,10.550251007080078
+aug_sample/000095_5_east asian.jpg,True,4.431478500366211
+aug_sample/000071_0_black.jpg,True,5.30324125289917
+aug_sample/000012_4_southeast asian.jpg,True,4.766413688659668
+aug_sample/000065_5_east asian.jpg,True,2.1559135913848877
+aug_sample/000044_0_black.jpg,True,7.707953453063965
+aug_sample/000089_5_east asian.jpg,True,4.735681056976318
+aug_sample/000049_3_middle eastern.jpg,True,2.9934518337249756
+aug_sample/000007_5_east asian.jpg,True,6.539305210113525
+aug_sample/000050_1_indian.jpg,True,2.1930301189422607
+aug_sample/000008_1_indian.jpg,True,5.98396635055542
+aug_sample/000028_1_indian.jpg,True,11.195669174194336
+aug_sample/000052_6_white.jpg,True,5.4791131019592285
+aug_sample/000037_0_black.jpg,True,6.653614044189453
+aug_sample/000068_4_southeast asian.jpg,True,4.476294040679932
+aug_sample/000088_2_latino.jpg,True,8.936606407165527
+aug_sample/000094_3_middle eastern.jpg,True,5.783784866333008
+aug_sample/000090_4_southeast asian.jpg,True,3.4489715099334717
+aug_sample/000085_1_indian.jpg,True,16.39683723449707
+aug_sample/000091_1_indian.jpg,True,12.442656517028809
+aug_sample/000014_4_southeast asian.jpg,True,3.2750186920166016
+aug_sample/000069_1_indian.jpg,True,8.354240417480469
+aug_sample/000031_0_black.jpg,True,11.105264663696289
+aug_sample/000086_5_east asian.jpg,True,-0.009510361589491367
+aug_sample/000092_3_middle eastern.jpg,True,10.282392501831055
+aug_sample/000032_3_middle eastern.jpg,True,5.350841522216797
+aug_sample/000018_1_indian.jpg,True,14.089873313903809
+aug_sample/000046_1_indian.jpg,True,6.5813822746276855
+aug_sample/000084_0_black.jpg,True,3.367367744445801
+aug_sample/000092_0_black.jpg,True,10.835747718811035
+aug_sample/000043_5_east asian.jpg,True,5.533766746520996
+aug_sample/000040_3_middle eastern.jpg,True,5.883016586303711
+aug_sample/000039_0_black.jpg,True,13.435200691223145
+aug_sample/000015_1_indian.jpg,True,5.161607265472412
+aug_sample/000022_5_east asian.jpg,True,7.370506286621094
+aug_sample/000012_3_middle eastern.jpg,True,4.505901336669922
+aug_sample/000033_3_middle eastern.jpg,True,4.376931190490723
+aug_sample/000067_3_middle eastern.jpg,True,6.795022964477539
+aug_sample/000019_3_middle eastern.jpg,True,8.228262901306152
+aug_sample/000047_5_east asian.jpg,True,5.743558883666992
+aug_sample/000039_5_east asian.jpg,True,10.596487045288086
+aug_sample/000053_0_black.jpg,True,3.506532669067383
+aug_sample/000053_4_southeast asian.jpg,True,3.3356080055236816
+aug_sample/000002_1_indian.jpg,True,8.519349098205566
+aug_sample/000013_3_middle eastern.jpg,True,5.880136489868164
+aug_sample/000081_4_southeast asian.jpg,True,4.48593807220459
+aug_sample/000015_5_east asian.jpg,True,3.3191006183624268
+aug_sample/000009_2_latino.jpg,True,5.62030029296875
+aug_sample/000030_5_east asian.jpg,True,3.1363625526428223
+aug_sample/000052_3_middle eastern.jpg,True,8.869017601013184
+aug_sample/000079_3_middle eastern.jpg,True,4.265626430511475
+aug_sample/000083_1_indian.jpg,True,7.851552963256836
+aug_sample/000045_2_latino.jpg,True,10.602221488952637
+aug_sample/000063_3_middle eastern.jpg,True,4.884069919586182
+aug_sample/000031_2_latino.jpg,True,12.769401550292969
+aug_sample/000005_5_east asian.jpg,True,6.845180034637451
+aug_sample/000083_4_southeast asian.jpg,True,7.125085830688477
+aug_sample/000095_6_white.jpg,True,4.382694244384766
+aug_sample/000084_4_southeast asian.jpg,True,3.494745969772339
+aug_sample/000094_1_indian.jpg,True,16.08830451965332
+aug_sample/000083_0_black.jpg,True,8.411454200744629
+aug_sample/000008_0_black.jpg,True,3.1289823055267334
+aug_sample/000070_1_indian.jpg,True,3.5177981853485107
+aug_sample/000088_4_southeast asian.jpg,True,12.727560043334961
+aug_sample/000035_0_black.jpg,True,2.848257064819336
+aug_sample/000018_4_southeast asian.jpg,True,11.102184295654297
+aug_sample/000044_1_indian.jpg,True,7.03397274017334
+aug_sample/000036_2_latino.jpg,True,5.2565741539001465
+aug_sample/000012_6_white.jpg,True,4.382124423980713
+aug_sample/000098_4_southeast asian.jpg,True,13.818453788757324
+aug_sample/000031_6_white.jpg,True,9.77952766418457
+aug_sample/000067_5_east asian.jpg,True,5.873425006866455
+aug_sample/000034_2_latino.jpg,True,4.978490829467773
+aug_sample/000029_6_white.jpg,True,8.282947540283203
+aug_sample/000033_6_white.jpg,True,4.281618595123291
+aug_sample/000013_4_southeast asian.jpg,True,5.903518199920654
+aug_sample/000060_6_white.jpg,True,5.689785480499268
+aug_sample/000074_6_white.jpg,True,7.172718048095703
+aug_sample/000003_6_white.jpg,True,2.01564359664917
+aug_sample/000038_5_east asian.jpg,True,5.438122749328613
+aug_sample/000044_3_middle eastern.jpg,True,7.157094955444336
+aug_sample/000039_4_southeast asian.jpg,True,11.111133575439453
+aug_sample/000061_4_southeast asian.jpg,True,1.534543514251709
+aug_sample/000079_4_southeast asian.jpg,True,3.0237061977386475
+aug_sample/000075_1_indian.jpg,True,20.407081604003906
+aug_sample/000068_0_black.jpg,True,9.373021125793457
+aug_sample/000028_2_latino.jpg,True,7.74234676361084
+aug_sample/000011_2_latino.jpg,True,2.7205464839935303
+aug_sample/000055_6_white.jpg,True,2.648277759552002
+aug_sample/000014_3_middle eastern.jpg,True,4.5153069496154785
+aug_sample/000078_3_middle eastern.jpg,True,17.301523208618164
+aug_sample/000018_0_black.jpg,True,10.650531768798828
+aug_sample/000010_3_middle eastern.jpg,True,6.626895904541016
+aug_sample/000093_1_indian.jpg,True,18.51276969909668
+aug_sample/000075_2_latino.jpg,True,15.014212608337402
+aug_sample/000009_3_middle eastern.jpg,True,7.513091564178467
+aug_sample/000096_0_black.jpg,True,3.4666759967803955
+aug_sample/000079_6_white.jpg,True,4.577192783355713
+aug_sample/000041_0_black.jpg,True,4.114023208618164
+aug_sample/000031_1_indian.jpg,True,13.240208625793457
+aug_sample/000082_4_southeast asian.jpg,True,8.738701820373535
+aug_sample/000004_4_southeast asian.jpg,True,2.2056663036346436
+aug_sample/000069_0_black.jpg,True,3.8680195808410645
+aug_sample/000043_1_indian.jpg,True,7.767273426055908
+aug_sample/000013_5_east asian.jpg,True,5.1478681564331055
+aug_sample/000058_1_indian.jpg,True,4.7868170738220215
+aug_sample/000061_1_indian.jpg,True,3.007814645767212
+aug_sample/000046_4_southeast asian.jpg,True,3.187997579574585
+aug_sample/000081_0_black.jpg,True,6.486316204071045
+aug_sample/000006_1_indian.jpg,True,11.42829704284668
+aug_sample/000042_3_middle eastern.jpg,True,7.094132423400879
+aug_sample/000065_1_indian.jpg,True,2.698640823364258
+aug_sample/000063_6_white.jpg,True,5.630660057067871
+aug_sample/000047_2_latino.jpg,True,6.022418975830078
+aug_sample/000001_5_east asian.jpg,True,13.749842643737793
+aug_sample/000078_4_southeast asian.jpg,True,13.928836822509766
+aug_sample/000068_6_white.jpg,True,7.693111419677734
+aug_sample/000030_1_indian.jpg,True,3.106856107711792
+aug_sample/000067_1_indian.jpg,True,8.480478286743164
+aug_sample/000037_1_indian.jpg,True,8.746562957763672
+aug_sample/000071_2_latino.jpg,True,6.657422065734863
+aug_sample/000019_2_latino.jpg,True,9.01115608215332
+aug_sample/000067_4_southeast asian.jpg,True,5.332485675811768
+aug_sample/000076_5_east asian.jpg,True,4.644551753997803
+aug_sample/000093_5_east asian.jpg,True,15.09586238861084
+aug_sample/000077_1_indian.jpg,True,10.401142120361328
+aug_sample/000021_4_southeast asian.jpg,True,6.229182243347168
+aug_sample/000098_2_latino.jpg,True,14.888655662536621
+aug_sample/000036_3_middle eastern.jpg,True,6.0481390953063965
+aug_sample/000040_0_black.jpg,True,6.248780727386475
+aug_sample/000087_1_indian.jpg,True,2.72705078125
+aug_sample/000001_0_black.jpg,True,14.67399787902832
+aug_sample/000088_0_black.jpg,True,14.702136039733887
+aug_sample/000059_6_white.jpg,True,6.030385494232178
+aug_sample/000023_0_black.jpg,True,7.756964683532715
+aug_sample/000043_2_latino.jpg,True,6.692267417907715
+aug_sample/000002_6_white.jpg,True,7.300961971282959
+aug_sample/000032_6_white.jpg,True,5.116623401641846
+aug_sample/000039_1_indian.jpg,True,15.83050537109375
+aug_sample/000079_1_indian.jpg,True,4.697338104248047
+aug_sample/000025_1_indian.jpg,True,14.628938674926758
+aug_sample/000066_2_latino.jpg,True,2.3896870613098145
+aug_sample/000092_2_latino.jpg,True,10.045771598815918
+aug_sample/000062_3_middle eastern.jpg,True,2.885241746902466
+aug_sample/000055_2_latino.jpg,True,3.263861894607544
+aug_sample/000090_5_east asian.jpg,True,4.115183353424072
+aug_sample/000016_2_latino.jpg,True,7.365974426269531
+aug_sample/000020_3_middle eastern.jpg,True,8.191049575805664
+aug_sample/000077_4_southeast asian.jpg,True,7.487191200256348
+aug_sample/000030_0_black.jpg,True,2.822662353515625
+aug_sample/000099_4_southeast asian.jpg,True,7.851226329803467
+aug_sample/000072_5_east asian.jpg,True,4.266571998596191
+aug_sample/000056_3_middle eastern.jpg,True,3.3396036624908447
+aug_sample/000047_3_middle eastern.jpg,True,7.468841075897217
+aug_sample/000077_3_middle eastern.jpg,True,9.00709342956543
+aug_sample/000026_5_east asian.jpg,True,7.210203647613525
+aug_sample/000076_6_white.jpg,True,6.231138706207275
+aug_sample/000088_5_east asian.jpg,True,14.381851196289062
+aug_sample/000049_5_east asian.jpg,True,3.6968841552734375
+aug_sample/000093_3_middle eastern.jpg,True,13.470134735107422
+aug_sample/000053_2_latino.jpg,True,2.9728071689605713
+aug_sample/000027_3_middle eastern.jpg,True,2.9188904762268066
