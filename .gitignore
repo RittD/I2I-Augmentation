@@ -4,9 +4,6 @@
 
 /fairface/dataset
 /fairface/detected_faces
-/fairface/detected_faces_CelebA
-/fairface/detected_faces_CelebA_10k_aug_samples
-fairface/detected_faces_CelebA_10k_aug_samples_correct_gender
 /fairface/fair_face_models
 
 /fairface/raw_input
@@ -20,3 +17,7 @@ fairface/detected_faces_CelebA_10k_aug_samples_correct_gender
 /DMimageDetection/weights
 
 .neptune
+
+/facenet_pytorch/data
+
+*.pyc
