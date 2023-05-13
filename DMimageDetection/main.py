@@ -44,9 +44,9 @@ def running_tests(data_path, dataset_name, output_dir, weights_dir, csv_file):
 
     # NOTE: Substitute the device with 'cpu' if gpu acceleration is not required
 
-    device = 'cuda:0'  # in ['cpu', 'cuda:0']
+    device = 'cuda:14'  # in ['cpu', 'cuda:0']
     print("using:", device)
-    batch_size = 1
+    batch_size = 128
 
     ### list of models
 
@@ -205,11 +205,11 @@ parser = argparse.ArgumentParser()
 # parser.add_argument("--csv_file", type=str, help="The path to the csv file", default="operations_10k.csv") # ./TestSet/operations.csv
 # args = vars(parser.parse_args())
 
-data_dir = "CelebA/"
-dataset_name = "aug_precise_prompts_strong"
+data_dir = "fairface/dataset/augmentations" #"CelebA/"
+dataset_name = "mixed_caps_total_70k" #"aug_precise_prompts_strong"
 out_dir = "DMimageDetection/results_tst"
 weights_dir = "DMimageDetection/weights"
-csv_file = "DMimageDetection/operations_10k.csv"
+csv_file = "DMimageDetection/operations_70k.csv"
 
 
 running_tests(data_dir, dataset_name, out_dir, weights_dir, csv_file)

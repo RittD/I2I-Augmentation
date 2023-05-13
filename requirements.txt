@@ -21,3 +21,4 @@ pandas
 nbconvert
 rtpt
 neptune
+foolbox
