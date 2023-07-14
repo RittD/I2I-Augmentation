@@ -81,7 +81,7 @@ Null-text inversion enables intuitive text-based editing of **real images** with
 
 ## Editing Real Images
 
-Prompt-to-Prompt editing of real images by first using Null-text inversion is provided in this [**Notebooke**][null_text].
+Prompt-to-Prompt editing of real images by first using Null-text inversion is provided in this [**Notebook**][null_text].
 
 
 ``` bibtex
