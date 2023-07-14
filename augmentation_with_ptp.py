@@ -45,6 +45,7 @@ from PIL import Image
 import re
 from rtpt import RTPT
 import pandas as pd
+import random
 
 from prompt_engineering import get_ff_prompts
 
@@ -52,20 +53,15 @@ from prompt_engineering import get_ff_prompts
 # In[2]:
 
 
-def get_image_numbers_from_inv_dir(directory, size):
+def get_fresh_image_numbers_from_inv_dir(latent_dir, aug_dir):
 
-    file_list = os.listdir(directory)  # Get a list of all filenames in the directory
-    image_numbers = []
-
-    for i, filename in enumerate(file_list):
-        if i == size:
-            break
-        
-        image_number = os.path.splitext(filename)[0]  # Extract the part before the dot
-        image_number = int(image_number)  # Parse it to an integer
-        image_numbers.append(image_number)
-
-    return image_numbers
+    latents_file_list = os.listdir(latent_dir)
+    augs_file_list = os.listdir(aug_dir)
+    available_latents = list(set([int(os.path.splitext(f)[0]) for f in latents_file_list]))
+    used_latents = list(set([int(f.split("_")[0]) for f in augs_file_list]))
+    fresh_image_numbers = [f for f in available_latents if f not in used_latents]
+    # print(len(available_latents), len(used_latents), len(fresh_image_numbers))
+    return fresh_image_numbers
 
 
 # In[3]:
@@ -81,19 +77,22 @@ if use_celeba:
 else:
     input_dir = "fairface/dataset/fairface-img-margin025-trainval/train"
     inversion_dir = "fairface/dataset/latents/only_white" 
-    solo_saving_dir = "fairface/dataset/augmentations/mixed_caps_total_70k"
+    solo_saving_dir = "fairface/dataset/augmentations/mixed_caps_total_84k"
 
 use_random_caps = True
 all_at_once = False
 
-first_image = 8000
-last_image = 10000
+# first_image = 1500
+# last_image = 2000
 # image_numbers = [256, 298, 300, 326, 332]
 # image_numbers = [336, 522, 525, 531, 537]
-image_numbers = get_image_numbers_from_inv_dir(inversion_dir, 10000) [first_image : last_image]
+fresh_image_numbers = get_fresh_image_numbers_from_inv_dir(inversion_dir, solo_saving_dir)# [first_image : last_image]
+fresh_image_numbers.sort()
+fresh_image_numbers = fresh_image_numbers[-500:] #[first_image:last_image]
+# print(len(fresh_image_numbers))
 # image_numbers = [10092, 10293, 10300, 10436, 10520, 10186, 10665, 10860, 10881, 10904, 10962]#[i for i in range(first_image, last_image+1)]
 # image_numbers = []
-# print(len(image_numbers), image_numbers)
+# print(len(fresh_image_numbers), fresh_image_numbers)
 
 # show_race =  [True,      True,       True,       True,              False, False, False   ]
 show_race =  [True,      True,       True,       True,              True,               True,           True]
@@ -113,7 +112,27 @@ whole_saving_dir = None #"outputs/CelebA_cropped"
 
 save_solo = True
 
-device = "cuda:12"
+
+device = "cuda:10"
+
+
+# In[7]:
+
+
+# import os
+
+# def check_images(directory, integer_list):
+#     for i in integer_list:
+#         image_name = f"{i}_0_black.jpg"
+#         image_path = os.path.join(directory, image_name)
+        
+#         if not os.path.isfile(image_path):
+#             print(image_name)
+#             return False
+
+#     return True
+
+# print(check_images(solo_saving_dir, fresh_image_numbers))
 
 
 # For loading the Stable Diffusion using Diffusers, follow the instuctions https://huggingface.co/blog/stable_diffusion and update MY_TOKEN with your token.
@@ -603,11 +622,11 @@ def save_images(img_number, images, races, prompts, self_replace_steps,
 
 
 print("Starting augmentation...")
-print(f"image interval: {(image_numbers[0], image_numbers[-1])}")
+print(f"image interval: {(fresh_image_numbers[0], fresh_image_numbers[-1])}")
 print(f"races used: {list(np.delete(races, ~np.array(show_race)))}")
 print(f"device in use: {device}\n")
 
-rtpt = RTPT('DR', 'P2P_Dataset_Augmentation', len(image_numbers))
+rtpt = RTPT('DR', 'P2P_Dataset_Augmentation', len(fresh_image_numbers))
 rtpt.start()
 
 # set parameters for all images 
@@ -625,7 +644,7 @@ prompts_are_of_equal_length = False
 
 
 # iterate of all image numbers
-for img_nmb in tqdm(image_numbers):
+for img_nmb in tqdm(fresh_image_numbers):
     img_number = f"{img_nmb:06}" if use_celeba else str(img_nmb)
     inv_file = img_number + ".pt"
 

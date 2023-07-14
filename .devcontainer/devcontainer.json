@@ -24,4 +24,5 @@
 				"--volume", "/storage-02/common-repos/StableDiffusion/:/workspaces/PromptToPrompt/StableDiffusion",
 				"--shm-size", "16gb"], //device=13,15
 	"shutdownAction": "none"
+
 }

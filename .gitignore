@@ -1,4 +1,5 @@
 /CelebA
+/ImageNetSample
 /datasets
 /StableDiffusion
 /example_images
@@ -17,8 +18,16 @@
 /DMimageDetection/TestSet
 /DMimageDetection/weights
 
+/face_detector/combined_dataset
+face_detector/ckpts
+face_detector/robustness_np_arrays
+
+gender_classifier/ckpts
+
+
 .neptune
 
 /facenet_pytorch/data
 
 *.pyc
+

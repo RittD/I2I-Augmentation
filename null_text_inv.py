@@ -3,7 +3,7 @@
 
 # ## Copyright 2022 Google LLC. Double-click for license information.
 
-# In[1]:
+# In[6]:
 
 
 # Copyright 2022 Google LLC
@@ -23,7 +23,7 @@
 
 # # Null-text inversion + Editing with Prompt-to-Prompt
 
-# In[1]:
+# In[7]:
 
 
 import os
@@ -51,54 +51,57 @@ from rtpt import RTPT
 from prompt_engineering import get_precise_celeba_prompts, get_ff_prompts
 
 
-# In[3]:
+# In[8]:
 
 
 def get_random_only_white_ff_sample(label_dir, sample_size):
-    labels = pd.read_csv(label_dir)["race"].to_numpy()
+    labels = pd.read_csv(label_dir)["Race"].to_numpy()
     only_white = np.where(labels=="White")[0] + 1
     sample = np.random.choice(only_white, size=sample_size, replace=False)
     return sample
 
 
-# In[4]:
+# In[9]:
 
 
 # for all the same
 input_dir = "fairface/dataset/fairface-img-margin125-trainval/train" #"CelebA/cropped"
-label_dir = "fairface/dataset/fairface_label_train.csv"
+label_dir = "fairface/dataset/labels/fairface_label_train.csv"
 inversion_dir = "fairface/dataset/latents/only_white"
 is_celeba = False
 
 # first_image = 1
 # last_image = 12
-image_numbers = get_random_only_white_ff_sample(label_dir, 3000) #[i for i in range(first_image, last_image+1)]
+image_numbers = get_random_only_white_ff_sample(label_dir, 400) #[i for i in range(first_image, last_image+1)]
 
 debug_mode = False
 
 original_prompts = get_ff_prompts(image_numbers, random_race_desc=False)
 # print(original_prompts)
-device = "cuda:13"
+device = "cuda:0"
 
 
 # For loading the Stable Diffusion using Diffusers, follow the instuctions https://huggingface.co/blog/stable_diffusion and update MY_TOKEN with your token.
 
-# In[5]:
+# In[10]:
 
 
 scheduler = DDIMScheduler(beta_start=0.00085, beta_end=0.012, beta_schedule="scaled_linear", clip_sample=False, set_alpha_to_one=False)
 # get your account token from https://huggingface.co/settings/tokens
-MY_TOKEN = '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' # write
+# MY_TOKEN = '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' # write
 #MY_TOKEN = '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' # read
 # os.system("pip install accelerate")
-login(token=MY_TOKEN)
+# login(token=MY_TOKEN)
 
 LOW_RESOURCE = False 
 NUM_DDIM_STEPS = 50
 GUIDANCE_SCALE = 7.5
 MAX_NUM_WORDS = 77
+
 device = torch.device(device) if torch.cuda.is_available() else torch.device('cpu')
-ldm_stable = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", use_auth_token=MY_TOKEN, scheduler=scheduler).to(device)
+
+model_name = "/workspaces/PromptToPrompt/StableDiffusion/src/models/stable-diffusion-v1-4"
+ldm_stable = StableDiffusionPipeline.from_pretrained(model_name, scheduler=scheduler).to(device) 
 
 try:
     ldm_stable.disable_xformers_memory_efficient_attention()
@@ -109,7 +112,7 @@ tokenizer = ldm_stable.tokenizer
 
 # ## Prompt-to-Prompt code
 
-# In[6]:
+# In[11]:
 
 
 class LocalBlend:
@@ -434,7 +437,7 @@ def show_self_attention_comp(attention_store: AttentionStore, res: int, from_whe
 
 # ## Null Text Inversion code
 
-# In[7]:
+# In[12]:
 
 
 def load_512(image_path, left=0, right=0, top=0, bottom=0):
@@ -625,7 +628,7 @@ null_inversion = NullInversion(ldm_stable)
 
 # ## Inference Code
 
-# In[8]:
+# In[13]:
 
 
 @torch.no_grad()
@@ -690,7 +693,7 @@ def run_and_display(prompts, controller, latent=None, run_baseline=False, genera
     return images, x_t
 
 
-# In[9]:
+# In[14]:
 
 
 print("Starting inversion...")

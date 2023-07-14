@@ -259,11 +259,11 @@ def build_ff_prompt(age, gender, race, random_race_desc):
 # build diverse prompts for the inserted image_numbers based on the attributes available for FairFace images
 # returns dict: (image_number: prompt)
 def get_ff_prompts(image_numbers, race_index=None, random_race_desc=True):
-    attr_path = "fairface/dataset/fairface_label_train.csv"
+    attr_path = "fairface/dataset/labels/fairface_label_train.csv"
     attributes = pd.read_csv(attr_path)
     prompts = {}
     for img_nmb in image_numbers:
         current = attributes.iloc[img_nmb-1]
-        current_race = races[race_index] if race_index is not None else current["race"]
-        prompts[img_nmb] = build_ff_prompt(current["age"], current["gender"], current_race, random_race_desc)
+        current_race = races[race_index] if race_index is not None else current["Race"]
+        prompts[img_nmb] = build_ff_prompt(current["Age"], current["Gender"], current_race, random_race_desc)
     return prompts
