@@ -27,7 +27,7 @@ gender_classifier/ckpts
 
 .neptune
 
-/facenet_pytorch/data
+/neat_plotting
 
 *.pyc
 
